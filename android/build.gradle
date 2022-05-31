@@ -1,4 +1,4 @@
-group 'com.tablemi.flutter_bluetooth_basic'
+group 'com.multipedidos.flutter_bluetooth_basic'
 version '1.0'
 
 buildscript {

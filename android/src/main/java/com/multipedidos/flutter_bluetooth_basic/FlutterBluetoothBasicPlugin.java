@@ -1,4 +1,4 @@
-package com.tablemi.flutter_bluetooth_basic;
+package com.multipedidos.flutter_bluetooth_basic;
 
 import android.Manifest;
 import android.app.Activity;
