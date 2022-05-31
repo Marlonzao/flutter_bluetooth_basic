@@ -9,7 +9,9 @@
 import 'dart:async';
 import 'dart:io';
 import 'package:rxdart/rxdart.dart';
-import '../flutter_bluetooth_basic_mp.dart';
+
+import './bluetooth_manager.dart';
+import './bluetooth_device.dart';
 import './enums.dart';
 
 /// Bluetooth printer

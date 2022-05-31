@@ -8,3 +8,4 @@ library flutter_bluetooth_basic_mp;
 
 export './src/bluetooth_manager.dart';
 export './src/bluetooth_device.dart';
+export './src/printer_bluetooth_manager.dart';
